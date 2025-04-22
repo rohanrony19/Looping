@@ -9,6 +9,13 @@ public class Right_aligned {
             System.out.println("*");
             }
         }
-    }
-    
+    }    
 }
+
+/*
+      *
+    * *
+  * * *
+* * * *
+
+ */

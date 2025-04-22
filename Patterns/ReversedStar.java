@@ -7,5 +7,13 @@ public class ReversedStar {
             System.out.println();
         }
     }
-    
 }
+
+/*
+
+* * * *
+* * *
+* *
+*
+ 
+*/
